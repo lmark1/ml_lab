@@ -1,2 +1,2 @@
-# ml_lab
-Laboratory exercises for FER course Machine Learning
+# Machine Learning - Laboratory exercises
+Laboratory exercises for FER course Machine Learning  
